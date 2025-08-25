@@ -7,7 +7,7 @@
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Databook](https://img.shields.io/badge/Databook-00A1F1?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Databook-00A1F1?style=for-the-badge&logoColor=white)
 
 ---
 
