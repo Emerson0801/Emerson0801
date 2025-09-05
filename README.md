@@ -17,4 +17,4 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Emerson0801&show_icons=true&theme=radical&include_all_commits=true&count)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson0801&layout=compact&theme=radical&include_all_commits=true&count)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson0801&layout=compact&theme=radical&include_all_commits=true&count_private=false&exclude_repo=repo1,repo2&langs_count=10)
